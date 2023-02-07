@@ -6,7 +6,7 @@
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the telethon session string from https:@STRING_SESSION_MAFIA_BOT
+            "description": "fill with the telethon session string from @STRING_SESSION_MAFIA_BOT
             "required": true
         },
         "MONGO_URL": {
